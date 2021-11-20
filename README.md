@@ -1,3 +1,10 @@
+# Screenshots.
+
+![MyCity 1](https://user-images.githubusercontent.com/88244333/142719535-8f10f32d-da4c-42dd-b8b2-ee53cf724edc.jpeg)
+
+
+
+
 
 # MyCity Act.
 
