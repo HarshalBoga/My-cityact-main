@@ -9,7 +9,7 @@
 ![7](https://user-images.githubusercontent.com/88244333/142719598-0ca61203-727b-4efd-87e3-4f7a02cfded3.jpeg) -->
 
 
-![MyCity 1]<img src="https://user-images.githubusercontent.com/88244333/142719535-8f10f32d-da4c-42dd-b8b2-ee53cf724edc.jpeg" width="400" height="400">
+![MyCity 1]<img src="https://user-images.githubusercontent.com/88244333/142719535-8f10f32d-da4c-42dd-b8b2-ee53cf724edc.jpeg" width="400" height="600">
 
 
 
