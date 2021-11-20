@@ -34,8 +34,8 @@ Type 2 – Where people are asked to give both gallery and camera permission so 
 
 # Screenshots.
 
-##Login Screen
+## Login Screen:
 <img src="https://user-images.githubusercontent.com/88244333/142719535-8f10f32d-da4c-42dd-b8b2-ee53cf724edc.jpeg" width="250" height="450"> <img src="https://user-images.githubusercontent.com/88244333/142719586-3f5cd352-a3bf-46df-8376-ef79b182cf31.jpeg" width="250" height="450"> <img src="https://user-images.githubusercontent.com/88244333/142719588-0ba75a2c-cfd3-4762-bb5b-6be7b0955d5d.jpeg" width="250" height="450"> 
 
-
+## Personal Account Dashboard:
 <img src="https://user-images.githubusercontent.com/88244333/142719590-d4e876be-9322-4e26-8ab8-848d38411c8f.jpeg" width="250" height="450"> <img src="https://user-images.githubusercontent.com/88244333/142719592-2c2d8972-9077-4121-9f89-54b0378194e0.jpeg" width="250" height="450"> <img src="https://user-images.githubusercontent.com/88244333/142719596-1b247ca6-4f82-45ba-be12-cd5f5bc8436f.jpeg" width="250" height="450"> <img src="https://user-images.githubusercontent.com/88244333/142719598-0ca61203-727b-4efd-87e3-4f7a02cfded3.jpeg" width="250" height="450">
