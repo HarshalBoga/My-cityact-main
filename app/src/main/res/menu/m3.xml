@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="Animal/ Bird Related"/>
+    <item android:id="@+id/item2" android:title="Electricity Related"/>
+    <item android:id="@+id/item3" android:title="Open Gutter/ Drain/Pit"/>
+    <item android:id="@+id/item4" android:title="Building/Wall Collapse"/>
+    <item android:id="@+id/item5" android:title="Destruction of Road traffic"/>
+    <item android:id="@+id/item6" android:title="Water logging"/>
+    <item android:id="@+id/item7" android:title="F.O.B. or Bridge"/>
+    <item android:id="@+id/item8" android:title="Road Related"/>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326106768097",
+    "firebase_url": "https://mycityact4.firebaseio.com",
+    "project_id": "mycityact4",
+    "storage_bucket": "mycityact4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326106768097:android:57ef00c6c6bfdf4c",
+        "android_client_info": {
+          "package_name": "com.singhbrotherseducare.mycity_act"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326106768097-6paphpet9dati75hf8kpj9h15u876s8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singhbrotherseducare.mycity_act",
+            "certificate_hash": "a7327ba4882beca3360496c4580a962daf5427dd"
+          }
+        },
+        {
+          "client_id": "326106768097-bvr75su5ncrj0fl6sht94iabhnkv8d0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdpRQSjJba_YboprNYW8FeYUxImvlzDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326106768097-bvr75su5ncrj0fl6sht94iabhnkv8d0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

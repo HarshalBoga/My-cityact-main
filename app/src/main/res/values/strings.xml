@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCity_Act</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_API_key">AIzaSyD1FmZOLfWConauZj8PhM6uDmbzrYiW0z0</string>
+
+</resources>
