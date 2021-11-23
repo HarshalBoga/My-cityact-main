@@ -22,7 +22,7 @@ Our project will provide a common platform for Citizens, Authorities and the Gro
 
 
 ## Data Flow Diagram.
-<img src="https://user-images.githubusercontent.com/88244333/142978089-57f2e688-7df6-45c5-9f82-ebd396e9eda4.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/88244333/142978089-57f2e688-7df6-45c5-9f82-ebd396e9eda4.png" width="600" height="300">
 
 
 
