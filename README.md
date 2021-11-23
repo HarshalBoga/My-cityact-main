@@ -7,22 +7,26 @@ Proposed project is an automated system which will provide a better tech assista
 Our project will provide a common platform for Citizens, Authorities and the Ground Level Workers who are responsible for implementation of commands.
 
 
-## Tech Stack
+## Tech Stack.
 
 **Tech used:** Android, Firebase Authentication and Database, Firebse ML Kit, JShell.
 
 
 
 
-## Features
+## Features.
 
 - Camera and location based problem posting.
 - Can upvote, downvote and comment on other posts.
 - Can post notices and other useful info.
 
 
+## Data Flow Diagram.
+<img src="https://user-images.githubusercontent.com/88244333/142978089-57f2e688-7df6-45c5-9f82-ebd396e9eda4.png" width="300" height="300">
 
-## Challenges Faced
+
+
+## Challenges Faced.
 
 One flaw in our existing system was whether the workers who are expected to complete the work given to them are actually completing their work and uploading the actual image after work completion or they are uploading any other fraud image.
 
